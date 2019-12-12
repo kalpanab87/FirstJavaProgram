@@ -13,5 +13,10 @@ public class MyMain {
         objectPerson2.firstName = "Sandeep";
         objectPerson2.age = 32;
         System.out.println(objectPerson1.getFirstName());
+        System.out.println(objectPerson1.getLastName());
+        System.out.println(objectPerson1.getAge());
+        System.out.println(objectPerson2.getFirstName());
+        System.out.println(objectPerson2.getLastName());
+        System.out.println(objectPerson2.getAge());
     }
 }
